@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is an organization that provides internship opportunities and practical learning experiences for students."
+  },
+  {
+    "question": "How can I apply for an internship?",
+    "answer": "You can apply for internships through the official CodeAlpha website or the application process shared by the organization."
+  },
+  {
+    "question": "What are the benefits of an internship?",
+    "answer": "Internships help students gain practical experience, improve technical skills, and understand real-world projects."
+  },
+  {
+    "question": "How do I submit my internship tasks?",
+    "answer": "Upload your source code to GitHub and follow the submission instructions shared by CodeAlpha."
+  },
+  {
+    "question": "Which programming languages are used?",
+    "answer": "Programming languages depend on the internship domain and project requirements. Common choices include Python, Java, C++, and JavaScript."
+  },
+  {
+    "question": "How can I contact CodeAlpha?",
+    "answer": "Use the official contact details or communication channels provided by CodeAlpha."
+  },
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine Learning is a field of AI that allows computers to learn patterns from data and make predictions."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing is a branch of AI that helps computers understand, interpret, and process human language."
+  },
+  {
+    "question": "Is Python required for AI projects?",
+    "answer": "Python is widely used for AI projects because it has many useful libraries such as NLTK and Scikit-learn."
+  }
+]
